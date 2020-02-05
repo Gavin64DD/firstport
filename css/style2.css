@@ -1,0 +1,156 @@
+body {
+  background-color:black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.me {
+  width: 700px;
+  border-style: solid;
+  border-color: #d940ff;
+  border-width: medium;
+  text-align: center;
+}
+
+#about {
+  color: #d940ff;
+  background-color: ;
+  text-align: center;
+  font-size: 59px;
+  border-style: solid;
+  border-color: #d940ff;
+}
+
+.title {
+  color: yellow;
+  font-size: 70px;
+  text-align: center;
+  background-color: black;
+  border-style: solid;
+  border-color: black;
+}
+
+.titlea {
+  color: yellow;
+  font-size: 250px !important;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  border-style: solid;
+  border-color: #d940ff;
+  border-width: medium;
+}
+
+#first {
+  text-align: center;
+}
+
+#firstt {
+  text-align: center;
+  background-color: black;
+  color: #d940ff;
+  font-size: 59px;
+  border-color: #d940ff;
+  border-style: solid;
+  border-width: medium;
+}
+
+#xeno {
+  text-align: center;
+}
+
+#xenot {
+  text-align: center;
+  background-color: black;
+  color: #d940ff;
+  font-size: 59px;
+  border-color: #d940ff;
+  border-style: solid;
+  border-width: medium;
+}
+
+#city {
+  text-align: center;
+}
+
+#cityt {
+  text-align: center;
+  background-color: black;
+  color: #d940ff;
+  font-size: 59px;
+  border-color: #d940ff;
+  border-style: solid;
+  border-width: medium;
+}
+
+a {
+  color: yellow;
+}
+
+#vania {
+  text-align: center;
+}
+
+#vaniat {
+  text-align: center;
+  background-color: black;
+  color: #d940ff;
+  font-size: 59px;
+  border-color: #d940ff;
+  border-style: solid;
+  border-width: medium;
+}
+
+#bad {
+  text-align: center;
+}
+
+#badt {
+  text-align: center;
+  background-color: black;
+  color: #d940ff;
+  font-size: 59px;
+  border-color: #d940ff;
+  border-style: solid;
+  border-width: medium;
+}
+
+.unitt{
+  text-align: center;
+  font-size: 1000px;
+  color: #d940ff;
+  background-color: black;
+  font-size: 59px;
+  border-color: #d940ff;
+  border-style: solid;
+  border-width: medium;
+}
+
+.link{
+  text-align: center;
+  font-size: 5000px;
+  color: #d940ff;
+  background-color: black;
+  font-size: 59px;
+  border-color: #d940ff;
+  border-style: solid;
+  border-width: medium;
+}
+
+.nav {
+    background-color:black;
+    font-size: 45px;
+    color: #d940ff;
+    border-color: #d940ff;
+    border-style: solid;
+    border-width: medium;
+}
+
+.jumbotron {
+  background-image: url("../img/Background.jpg") !important;
+  background-repeat: no-repeat;
+  width:100%;
+  border-style: solid;
+  border-color: #d940ff;
+}
